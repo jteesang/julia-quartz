@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "julia.xyz",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -33,8 +33,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#9377B4",
+          tertiary: "#9377B4",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -43,8 +43,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#c49ff0",
+          tertiary: "#c49ff0",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
