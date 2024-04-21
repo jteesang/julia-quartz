@@ -26,24 +26,24 @@ As with all difficult questions (mainly due to the vast unknown of the "future")
 	- Joined my first team
 	- Spent every waking hour and weekend learning how to sew
 	- Prepared to move to Northern Virginia and picked up knitting
-- Moved in Sept 2022 (Hybrid in Northern Virginia) [Month: 8]
+- Moved in **Sept 2022** (Hybrid in Northern Virginia) [Month: 8]
 	- Adjusted to NOVA and made several knitting friends online
 	- Worked a lot of late hours (conversely, did not work as much during the day)
-- Rotated to a different team in Feb 2023 [Month: 13]
+- Rotated to a new team in **Feb 2023** [Month: 13]
 	- Learned a lot about database migration and API development
 	- Started getting attached to work and staying at the office til 8pm
 	- Team picks up a new project in May 2023
 	- Enjoyed the team dynamic and the manager
-- Loaned to another team in July 2023 [Month: 18]
+- Loaned to another team in **July 2023** [Month: 18]
 	- First time I began to feel like I was the only one truly dedicated to working on the team
 	- Left behind my half-baked design for a project I was leading
 	- Picked up two new projects that I had to lead for the next 3 months on loan
-- Moved in Aug 2023 [Month: 19]
+- Moved in **Aug 2023** [Month: 19]
 	- Distinctly remember walking in the parking garage from my car and felt a rush of anger into my body, which I played off as *"taking responsibility and ownership"*
-- Returned to first team in October 2023 [Month: 21]
+- Returned to first team in **October 2023** [Month: 21]
 	- Continue to work on the existing project from the first team
 	- No real end in sight - lots of drama/politics from leadership
-- Reorg in Jan 2024 [Month: 24]
+- Reorg in **Jan 2024** [Month: 24]
 	- Previous manager leaves the org, morale is low
 	- One team member is PIP'd
 	- Another team member transfers to a sister team

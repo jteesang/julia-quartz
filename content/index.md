@@ -5,12 +5,14 @@ updated: 2024-04-19T13:15
 ---
 
 ## _Currently:_ ##
-- Actively trying to quit my day jo- I mean, exploring the intersection of creating and building tools that make it easier to question our status quo view of the world. 
-- Writing on the importance of [[on finding people]] + [[on finding fulfillment]] in the work that you build and create. See more [[Thoughts]] here.
-- Furiously knitting sweaters before the weather warms up and hosting dinner parties at my place :)
+- Exploring the intersection of building tools for underserved industries/communities + utilizing tech to reimagine existing systems.
+    - See my ideas and [[Questions]] here. 
+- Writing on the importance of [[on finding people]] + [[on finding fulfillment]] in the work that you build and create. More [[Thoughts]] here.
+
+- Furiously knitting sweaters before the weather warms up and enjoying nature views from high points :)
 
 ## _Learning:_ ##
-- Building solutions with a focus on utilizing technology in less accessible industries
+- Brainstorming solutions with a focus on utilizing technology in less accessible industries
 - Tinkering with LLMs 
 - Brushing up on React / Typescript 
 
